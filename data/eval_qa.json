@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the main topic of this document?",
+    "answer": "The document discusses machine learning fundamentals and applications",
+    "source": "sample.pdf"
+  },
+  {
+    "question": "What are the key benefits of using neural networks?",
+    "answer": "Neural networks can learn complex patterns, handle large amounts of data, and improve accuracy over time",
+    "source": "sample.pdf"
+  },
+  {
+    "question": "How does the proposed method compare to existing approaches?",
+    "answer": "The proposed method achieves 15% higher accuracy and 30% faster inference time compared to baseline methods",
+    "source": "research_paper.pdf"
+  },
+  {
+    "question": "What is the conclusion of the study?",
+    "answer": "The study concludes that the new algorithm is effective for real-time applications and outperforms traditional methods",
+    "source": "research_paper.pdf"
+  },
+  {
+    "question": "What are the limitations mentioned in the document?",
+    "answer": "The main limitations include computational complexity, requirement for large datasets, and potential overfitting",
+    "source": "research_paper.pdf"
+  },
+  {
+    "question": "What is the recommended approach for data preprocessing?",
+    "answer": "The recommended approach includes normalization, outlier removal, and feature scaling before model training",
+    "source": "tutorial.pdf"
+  },
+  {
+    "question": "Which programming languages are mentioned for implementation?",
+    "answer": "Python and R are mentioned as the primary languages for implementation",
+    "source": "tutorial.pdf"
+  },
+  {
+    "question": "What is the definition of overfitting?",
+    "answer": "Overfitting occurs when a model learns the training data too well and fails to generalize to new, unseen data",
+    "source": "tutorial.pdf"
+  },
+  {
+    "question": "What evaluation metrics are used in the experiments?",
+    "answer": "The experiments use accuracy, precision, recall, and F1-score as evaluation metrics",
+    "source": "research_paper.pdf"
+  },
+  {
+    "question": "What is the dataset size used for training?",
+    "answer": "The training dataset contains 50,000 samples with 20 features each",
+    "source": "research_paper.pdf"
+  },
+  {
+    "question": "What are the future work directions suggested?",
+    "answer": "Future work includes exploring transfer learning, optimizing for mobile devices, and testing on larger datasets",
+    "source": "research_paper.pdf"
+  },
+  {
+    "question": "How is the model deployed in production?",
+    "answer": "The model is deployed as a REST API using Docker containers with automatic scaling based on load",
+    "source": "deployment_guide.pdf"
+  },
+  {
+    "question": "What are the system requirements for running the application?",
+    "answer": "The system requires at least 8GB RAM, a modern CPU, and 10GB of free disk space",
+    "source": "deployment_guide.pdf"
+  },
+  {
+    "question": "What is the cost structure of the proposed solution?",
+    "answer": "The solution uses a pay-as-you-go model with estimated monthly costs of $50-100 for typical workloads",
+    "source": "business_case.pdf"
+  },
+  {
+    "question": "What are the security considerations mentioned?",
+    "answer": "Security considerations include encryption of data at rest and in transit, authentication, and regular security audits",
+    "source": "deployment_guide.pdf"
+  },
+  {
+    "question": "What is the expected return on investment (ROI)?",
+    "answer": "The expected ROI is 200% over 12 months due to reduced manual processing costs",
+    "source": "business_case.pdf"
+  },
+  {
+    "question": "What are the key features of the proposed system?",
+    "answer": "Key features include automated document processing, real-time analytics, and customizable dashboards",
+    "source": "product_overview.pdf"
+  },
+  {
+    "question": "How does the system handle errors and exceptions?",
+    "answer": "The system implements comprehensive error logging, automatic retry mechanisms, and user-friendly error messages",
+    "source": "technical_spec.pdf"
+  },
+  {
+    "question": "What is the maintenance schedule recommended?",
+    "answer": "Regular maintenance is recommended monthly with full system audits quarterly",
+    "source": "maintenance_guide.pdf"
+  },
+  {
+    "question": "What are the integration options available?",
+    "answer": "Integration options include REST API, webhooks, and direct database connections",
+    "source": "api_documentation.pdf"
+  }
+]
